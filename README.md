@@ -1,6 +1,6 @@
-<div style="text-align:center">
+<p align="center">
   <img src="/images/favicon.ico" width="60">
-</div>  
+</p>  
 
 ### Public Traffic Violation Reporting System
 

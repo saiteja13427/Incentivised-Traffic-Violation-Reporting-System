@@ -1,12 +1,9 @@
-<p align="center">
-  <img src="/images/favicon.ico" width="60">
-</p>  
-
-### Public Traffic Violation Reporting System
-
 <div style="text-align:center">
   <img src="/images/ptvrs.png" style="border: solid 1px; border-color: #f0f0f0">
 </div>  
+
+### Public Traffic Violation Reporting System
+
 
 
 A system for general public to click a photo of a traffic violation anywhere and report it. The system also rewards the users once there report is approved by the admin.

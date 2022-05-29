@@ -1,0 +1,10 @@
+{
+    "name": "elms/elms",
+    "description": "An employee leave management system",
+    "type": "project",
+    "license": "MIT",
+
+    "require": {
+        "phpmailer/phpmailer": "^6.1"
+    }
+}
